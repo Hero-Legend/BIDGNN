@@ -1,0 +1,12 @@
+**使用说明**：
+1. 在 GitHub 仓库首页点击 **Add file** -> **Create new file**。
+2. 文件名输入 `requirements.txt`。
+3. 复制下方内容粘贴进去并保存。
+
+```text
+torch>=1.12.0
+transformers
+numpy
+pandas
+scikit-learn
+tqdm
