@@ -11,12 +11,6 @@ This repository contains the official implementation and data for the paper:
 
 ---
 
-## 🏗️ Model Architecture
-
-![Framework Overview](Figure1.eps)
-*(Note: Please upload your `Figure1.eps` or a `.png` version to the repository root to display the architecture diagram here)*
-
----
 
 ## 📂 Project Structure
 
@@ -60,10 +54,10 @@ The code has been tested with **Python 3.9** and **PyTorch 1.12.0**.
 
 ## 📊 Performance
 BIDGNN achieves state-of-the-art performance on the DDI Extraction 2013 benchmark:
-Metric,Score (%)
-Precision,82.55
-Recall,84.62
-F1-Score,83.57
+|`Metric`|Score (%)|
+|`Precision`|82.55|
+|`Recall`|84.62|
+|`F1-Score`|83.57|
 
 ---
 
